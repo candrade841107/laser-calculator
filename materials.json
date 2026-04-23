@@ -3,18 +3,21 @@
         "name": "3mm Acrylic (Clear)",
         "cost_per_sq_mm": 0.00005,
         "cut_speed_mmin": 2.2,
-        "pierce_time_sec": 0.5
+        "pierce_time_sec": 0.5,
+        "power_draw_kw": 3.5
     },
     "16ga_cold_rolled_steel": {
         "name": "16ga Cold Rolled Steel",
         "cost_per_sq_mm": 0.00008,
         "cut_speed_mmin": 3.5,
-        "pierce_time_sec": 1.2
+        "pierce_time_sec": 1.2,
+        "power_draw_kw": 3.0
     },
     "6mm_mdf": {
         "name": "6mm MDF",
         "cost_per_sq_mm": 0.00003,
         "cut_speed_mmin": 1.8,
-        "pierce_time_sec": 0.8
+        "pierce_time_sec": 0.8,
+        "power_draw_kw": 3.5
     }
 }
